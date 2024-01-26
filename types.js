@@ -8,7 +8,7 @@ var isRich = true;
 var passed = false;
 
 // number
-var price = 5.5;
+var price = 55;
 
 console.log(passed);
 console.log(typeof passed);
